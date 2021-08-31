@@ -14,6 +14,6 @@ Highlight text, press control + shift + P to apply banner font. Save file and up
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | [BannerBarron.txt]https://github.com/DraykeLogan/2143-OOP-Barron/blob/main/Assignments/A03/BannerBarron.txt| Banner heading file for my assignments.
+|   1   | BannerBarron.txt| Banner heading file for my assignments.
 
       
