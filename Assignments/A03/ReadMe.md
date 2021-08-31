@@ -8,7 +8,7 @@ A03
 2143
 (Last Name)
 
-Highlight text, press control + shift + P to apply banner font. Save file and upload to Github repository under folder assignments/ao3/file name.
+Highlight text, press control + shift + P to apply banner font. Save file and upload to Github repository under folder assignments/a03/file name.
 
 ### Files
 
