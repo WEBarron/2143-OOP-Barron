@@ -10,10 +10,9 @@ A03
 
 Highlight text, press control + shift + P to apply banner font. Save file and upload to Github repository under folder assignments/a03/file name.
 
-### Files
 
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   | BannerBarron.txt| Banner heading file for my assignments.
+|   1   | [BannerBarron.txt](./BannerBarron.txt)| Banner heading file for assignments.|
 
       
