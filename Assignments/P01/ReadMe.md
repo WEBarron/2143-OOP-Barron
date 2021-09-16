@@ -8,7 +8,7 @@ This program implements a list data structure that links together nodes of integ
 
 |   #   | File     | Description                      |
 | :---: | -------- | -------------------------------- |
-|   1   | [BannerBarron.txt](./BannerBarron.txt)| Banner heading file for assignments.|
+|   1   | [Banner.txt](./Banner.txt)| Banner heading file for assignments.|
 |   2   | [Main.cpp](./Main.cpp) | Main driver of my vector list program . |
 
 
