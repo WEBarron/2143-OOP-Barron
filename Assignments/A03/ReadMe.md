@@ -7,4 +7,4 @@ Create a banner to be printed and turned in with every assignment. Banner should
 ### Files
 |   #   | File            | Description                                        |
 | :---: | --------------- | -------------------------------------------------- |
-|   1   |     banner      | Banner cover page for assignments,                 |
+|   1   |    banner.txt   | Banner cover page for assignments                  |
